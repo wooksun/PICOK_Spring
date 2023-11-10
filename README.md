@@ -89,3 +89,6 @@ Spring 팀 프로젝트 입니다.<br/>
   <img src="readme/images/Login.png" />
 </div>
 <br/>
+
+게시글의 다양한 이벤트 처리는 아래의 링크에서 확인 가능합니다.<br/>
+
