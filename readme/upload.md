@@ -27,3 +27,5 @@
 <div>
   <img src="./UPLOAD/daily_upload.gif" />
 </div>
+
+👉 <a href="https://github.com/wooksun/Project_PICOK_Spring" target="_blank">Project_PICOK 보러가기</a> 👈
