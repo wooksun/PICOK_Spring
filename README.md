@@ -49,7 +49,7 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 
 ## ⚙️ 프로젝트 기능
 
-### 📺 최초 화면
+### 📺 최초 화면 📺
 프로젝트를 실행한 메인 화면입니다.
 <div>
   <img src="readme/HOME/main1.png" />
@@ -59,7 +59,7 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 - 'Nature'/'City'/'Daily' 세개의 카테고리(테마)를 선택하여 게시판을 볼 수 있고, 이 외에 'About Picok(회사 소개)', 'QnA(질의 응답)', 'Contact Us(이메일 문의)'등 다양한 이벤트를 제공합니다.
 - 우측 상단에 연필 아이콘(✍️)을 클릭하면 글 작성 페이지로 넘어가게 됩니다.
 
-### ✍️ 글 작성 
+### ✍️ 글 작성 ✍️
 글 작성 시 보이는 최초 화면입니다.
 <div>
   <img src="readme/UPLOAD/upload.png" />
@@ -70,7 +70,7 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 - 글 작성의 자세한 설명과 구동은 다음 링크에서 확인 가능합니다.
 - 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/upload.md" target="_blank">글 작성 설명 및 구동 바로가기</a> 👈
 
-### ✨ 카테고리(테마)분류 및 페이지네이션
+### ✨ 카테고리(테마)분류 및 페이지네이션 ✨
 카테고리별 보여지는 최초 화면입니다.
 <div>
   <img src="readme/NOTICE_BOARD/notice.png" />
@@ -82,7 +82,7 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 - 각 카테고리의 분류와 페이지네이션의 설명 및 구동은 다음 링크에서 확인 가능합니다.
 - 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/notice_board.md" target="_blank">카테고리 분류와 페이지네이션 설명 및 구동 바로가기</a> 👈
 
-### 📺 게시글
+### 📖 게시글 📖
 게시글을 작성하지 않은 사용자가 최초 조회 시 보이는 화면 입니다.<br/>
 ※ 게시글 작성자의 화면은 위의 글 작성 페이지에서 확인하실 수 있습니다. ※
 <div>
