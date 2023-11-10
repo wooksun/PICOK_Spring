@@ -92,4 +92,4 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 
 - 게시글의 이벤트는 조회수/좋아요/신고/댓글/대댓글/이미지 슬라이드 등이 있습니다. (수정/삭제는 글 작성에서 확인 가능)
 - 게시글의 다양한 이벤트 처리는 아래의 링크에서 확인 가능합니다.
-- 👉 <a href="" target="_blank">게시글 이벤트 처리 보러가기</a> 👈
+- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/board.md" target="_blank">게시글 이벤트 처리 보러가기</a> 👈
