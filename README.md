@@ -67,7 +67,7 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 
 - 파일 첨부 버튼을 통해 사진을 기입할 수 있고, 제목과 내용을 작성하여 작성을 완료하면 내가 작성한 'My Photo'로 이동하게 됩니다.<br/>
 - 글 작성과 수정, 삭제 부분의 자세한 설명은 다음 링크에서 확인 가능합니다.<br/>
-<a href="" target="_blank">글 작성/수정/삭제 설명 및 구동</a>
+<a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/upload.md" target="_blank">글 작성/수정/삭제 설명 및 구동</a>
 
 ### ✨ 카테고리(테마)별 분류와 페이지네이션(페이징)
 카테고리별 최초 화면 입니다.
