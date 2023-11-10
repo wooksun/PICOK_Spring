@@ -86,7 +86,7 @@ Spring 팀 프로젝트 입니다.<br/>
 게시글을 작성하지 않은 사용자가 최초 조회 시 보이는 화면 입니다.<br/>
 ※ 게시글 작성자의 화면은 위의 글 작성 페이지에서 확인하실 수 있습니다. ※
 <div>
-  <img src="readme/images/Login.png" />
+  <img src="readme/BOARD/board.png" />
 </div>
 <br/>
 
