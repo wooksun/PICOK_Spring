@@ -5,7 +5,7 @@
 
 ### 게시글 작성
 <div>
-  <img src="readme/UPLOAD/nature_upload.gif" />
+  <img src="./UPLOAD/nature_upload.gif" />
 </div>
 
 - 원하는 첨부파일(.jpg/.png)를 선택합니다.
@@ -18,10 +18,10 @@
 
 - City 카테고리의 업로드 영상입니다.
 <div>
-  <img src="readme/UPLOAD/city_upload.gif" />
+  <img src="./UPLOAD/city_upload.gif" />
 </div>
 
 - Daily 카테고리의 업로드 영상입니다.
 <div>
-  <img src="readme/UPLOAD/daily_upload.gif" />
+  <img src="./UPLOAD/daily_upload.gif" />
 </div>
