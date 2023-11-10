@@ -6,8 +6,8 @@
 ### ✍️ 게시글 작성
 <div>
   <img src="./UPLOAD/nature_upload.gif" />
-</div>
-
+</div><
+<br/>
 - 원하는 첨부파일(.jpg/.png)를 선택합니다.
 - 'Nature', 'City', 'Daily' 중 원하는 카테고리(테마)를 설정합니다.
 - 제목과 내용을 기압한 후 '작성하기' 버튼을 클릭하여 업로드 합니다.
