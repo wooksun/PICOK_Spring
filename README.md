@@ -72,7 +72,7 @@ Spring 팀 프로젝트 입니다.<br/>
 ### ✨ 카테고리(테마)별 분류와 페이지네이션(페이징)
 카테고리별 최초 화면 입니다.
 <div>
-  <img src="readme/images/Login.png" />
+  <img src="readme/NOTICE_BOARD/notice.png" />
 </div>
 <br/>
 
