@@ -1,0 +1,27 @@
+# Project_PICOK | 사진 아카이브 소셜미디어 - 글 작성
+
+글 작성에 대한 설명 및 구동입니다.
+<hr/>
+
+### 게시글 작성
+<div>
+  <img src="readme/UPLOAD/nature_upload.gif" />
+</div>
+
+- 원하는 첨부파일(.jpg/.png)를 선택합니다.
+- 'Nature', 'City', 'Daily' 중 원하는 카테고리(테마)를 설정합니다.
+- 제목과 내용을 기압한 후 '작성하기' 버튼을 클릭하여 업로드 합니다.
+- 게시글을 업로드하면 My Photo 페이지에 도달하게 되고, 내가 올린 게시글을 모두 볼 수 있습니다.
+- 업로드한 카테고리에 접속하게 되면 최신순으로 업로드 된 게시글을 확인하실 수 있습니다.
+
+### 카테고리 별 업로드 시연
+
+- City 카테고리의 업로드 영상입니다.
+<div>
+  <img src="readme/UPLOAD/city_upload.gif" />
+</div>
+
+- Daily 카테고리의 업로드 영상입니다.
+<div>
+  <img src="readme/UPLOAD/daily_upload.gif" />
+</div>
