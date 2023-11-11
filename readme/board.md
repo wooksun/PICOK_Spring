@@ -59,3 +59,5 @@
 
 - 신고수는 컴퓨터의 고유 ip값을 받아 처리하여 무분별한 신고처리를 방지했습니다.
 - 특정 게시글의 신고수가 100개 이상일 경우 해당 게시글은 자동 삭제되도록 구현했습니다. 
+
+👉 <a href="https://github.com/wooksun/Project_PICOK_Spring" target="_blank">Project_PICOK 보러가기</a> 👈
