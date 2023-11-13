@@ -92,4 +92,4 @@ Piock이 제공하는 세 가지 카테고리별 화면입니다.
 - 게시글 이벤트는 조회수/좋아요/신고/댓글/대댓글/이미지 슬라이드의 이벤트를 제공합니다.
 - 사용자의 무분별한 이벤트 처리를 방지하고자 조회수/좋아요/신고 기능은 컴퓨터 고유 ip를 값으로 받아 계정 당 1회 이벤트 처리하도록 구현했습니다.
 - 작성자의 다양한 게시글을 이미지 슬라이드 처리하여 이미지 클릭 시 해당 게시글로 이동합니다.
-- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/board.md" target="_blank">게시글 이벤트트 설명 및 구동 바로가기</a> 👈
+- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/board.md" target="_blank">게시글 이벤트 설명 및 구동 바로가기</a> 👈
