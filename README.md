@@ -67,4 +67,16 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 <br/>
 
 - 첨부파일(.jpg/.png)을 선택한 후 카테고리(테마) 설정, 제목, 내용을 기입한 뒤 작성하기 버튼을 클릭할 시 업로드 됩니다.
-- 글 작성의 자세한 설로가기</a> 👈
+- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/upload.md" target="_blank">글 작성의 설명 및 구동 바로가기</a> 👈
+
+### ✨ 카테고리(테마)별 분류 및 페이지네이션 ✨
+글 작성 시 보이는 최초 화면입니다.
+<div>
+  <img src="readme/NOTICE_BOARD/notice.png" />
+</div>
+<br/>
+
+- Picok이 담고있는 'Nature'/'City'/'Daily' 세 가지 카테고리를 통하여 분류되어 있는 게시글을 확인할 수 있습니다.
+- 'Latest(최신순)'/'Popular(좋아요)' 순서로 정렬 가능한 게시판 입니다.
+- '처음'/'이전'/'1 ~ 10'/'다음'/'마지막' 버튼을 통해 원하는 페이지로 이동할 수 있는 페이지네이션을 구현했습니다.
+- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/notice_board.md" target="_blank">카테고리(테마)별 분류 및 페이지네이션션 설명 및 구동 바로가기</a> 👈
