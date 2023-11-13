@@ -52,8 +52,8 @@
   <img src="./UPLOAD/update_2.gif" />
 </div><br/>
 
-- 카테고리 'city'의 'lake / city'라는 게시글을 수정합니다.
-- 위와 마찬가지로 카테고리 'Daily'의 'lake / city / Daily'라는 게시글로 수정된 것을 확인할 수 있습니다.
+- 카테고리 'City'의 'lake / City'라는 게시글을 수정합니다.
+- 위와 마찬가지로 카테고리 'Daily'의 'lake / City / Daily'라는 게시글로 수정된 것을 확인할 수 있습니다.
 
 <div>
   <img src="./UPLOAD/delete.gif" />
