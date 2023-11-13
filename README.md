@@ -72,11 +72,4 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 ### ✨ 카테고리(테마)별 분류 및 페이지네이션 ✨
 글 작성 시 보이는 최초 화면입니다.
 <div>
-  <img src="readme/NOTICE_BOARD/notice.png" />
-</div>
-<br/>
-
-- Picok이 담고있는 'Nature'/'City'/'Daily' 세 가지 카테고리를 통하여 분류되어 있는 게시글을 확인할 수 있습니다.
-- 'Latest(최신순)'/'Popular(좋아요)' 순서로 정렬 가능한 게시판 입니다.
-- '처음'/'이전'/'1 ~ 10'/'다음'/'마지막' 버튼을 통해 원하는 페이지로 이동할 수 있는 페이지네이션을 구현했습니다.
-- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/notice_board.md" target="_blank">카테고리(테마)별 분류 및 페이지네이션션 설명 및 구동 바로가기</a> 👈
+  <img src="트 설명 및 구동 바로가기</a> 👈
