@@ -7,6 +7,9 @@
 <div>
   <img src="./BOARD/image_slide.gif" />
 </div><br/>
+<div>
+  <img src="./BOARD/image_slide2.gif" />
+</div><br/>
 
 - 작성자가 업로한 게시글의 사진을 이미지 슬라이드 처리하여 다양한 게시글을 볼 수 있도록 구현했습니다.
 - 슬라이드 이미지 클릭 시, 해당 게시글로 이동할 수 있습니다.
