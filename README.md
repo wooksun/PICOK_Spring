@@ -70,6 +70,25 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 - 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/upload.md" target="_blank">글 작성의 설명 및 구동 바로가기</a> 👈
 
 ### ✨ 카테고리(테마)별 분류 및 페이지네이션 ✨
-글 작성 시 보이는 최초 화면입니다.
+Piock이 제공하는 세 가지 카테고리별 화면입니다.
 <div>
-  <img src="트 설명 및 구동 바로가기</a> 👈
+  <img src="readme/NOTICE_BOARD/notice.png" />
+</div>
+<br/>
+
+- 각 카테고리(테마)별 게시글을 분류하여 저장한 게시판 입니다.
+- 카테고리의 정렬 순서는 'Latest(최신순)'이 기본이고, 'Popular(좋아요)'는 좋아요가 많은 순서로 정렬하여 좋아요가 많은 게시글의 순서대로 보여집니다.
+- '처음'/'이전'/'1 ~ 10'/'다음'/'마지막' 버튼의 페이지네이션을 통해 사용자가 원하는 페이지로 이동할 수 있습니다.
+- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/upload.md" target="_blank">카테고리(테마)별 분류 및 페이지네이션 설명 및 구동 바로가기</a> 👈
+
+### 📋 게시글 📋
+사용자가 본인의 게시글이 아닌 다른 작성자의 게시글을 들어갔을 때 보이는 View Page 입니다. (작성자 본인의 View Page는 위의 '글 작성'에서 확인 가능합니다.)
+<div>
+  <img src="readme/BOARD/board.png" />
+</div>
+<br/>
+
+- 게시글 이벤트는 조회수/좋아요/신고/댓글/대댓글/이미지 슬라이드의 이벤트를 제공합니다.
+- 사용자의 무분별한 이벤트 처리를 방지하고자 조회수/좋아요/신고 기능은 컴퓨터 고유 ip를 값으로 받아 계정 당 1회 이벤트 처리하도록 구현했습니다.
+- 작성자의 다양한 게시글을 이미지 슬라이드 처리하여 이미지 클릭 시 해당 게시글로 이동합니다.
+- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/board.md" target="_blank">게시글 이벤트트 설명 및 구동 바로가기</a> 👈
