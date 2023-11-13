@@ -40,4 +40,12 @@
 - Daily 카테고리의 업로드 영상입니다.
 - 게시글의 작성자는 수정/삭제 버튼이 활성화 됩니다.
 
+### ✂️ 게시글 수정 및 삭제 ✂️
+<div>
+  <img src="./UPLOAD/update_1.gif" />
+</div><br/>
+
+- 영상 시작을 주목하면 'Nature'의 'lake'라는 게시글이 있는 것을 확인하실 수 있습니다.
+- 'lake'라는 게시글을 카테고리 'city'의 게시글로 수정하면 수정된 게시글이 먼저 보이게 되고, 해당 카테고리를 확인했을 때 수정된 게시글이 보이게 됩니다.
+
 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring" target="_blank">Project_PICOK 보러가기</a> 👈
