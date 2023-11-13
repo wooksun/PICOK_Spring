@@ -67,29 +67,4 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 <br/>
 
 - 첨부파일(.jpg/.png)을 선택한 후 카테고리(테마) 설정, 제목, 내용을 기입한 뒤 작성하기 버튼을 클릭할 시 업로드 됩니다.
-- 글 작성의 자세한 설명과 구동은 다음 링크에서 확인 가능합니다.
-- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/upload.md" target="_blank">글 작성 설명 및 구동 바로가기</a> 👈
-
-### ✨ 카테고리(테마)분류 및 페이지네이션 ✨
-카테고리별 보여지는 최초 화면입니다.
-<div>
-  <img src="readme/NOTICE_BOARD/notice.png" />
-</div>
-<br/>
-
-- 각 카테고리는 최신/좋아요 순서의 정렬과 페이지네이션을 제공합니다.
-- 페이지네이션은 '처음'/'이전'/'1 ~ 10'/'다음'/'마지막'의 기능을 실행합니다.
-- 각 카테고리의 분류와 페이지네이션의 설명 및 구동은 다음 링크에서 확인 가능합니다.
-- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/notice_board.md" target="_blank">카테고리 분류와 페이지네이션 설명 및 구동 바로가기</a> 👈
-
-### 📖 게시글 📖
-게시글을 작성하지 않은 사용자가 최초 조회 시 보이는 화면 입니다.<br/>
-※ 게시글 작성자의 화면은 위의 글 작성 페이지에서 확인하실 수 있습니다. ※
-<div>
-  <img src="readme/BOARD/board.png" />
-</div>
-<br/>
-
-- 게시글의 이벤트는 조회수/좋아요/신고/댓글/대댓글/이미지 슬라이드 등이 있습니다. (수정/삭제는 글 작성에서 확인 가능)
-- 게시글의 다양한 이벤트 처리는 아래의 링크에서 확인 가능합니다.
-- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/board.md" target="_blank">게시글 이벤트 처리 보러가기</a> 👈
+- 글 작성의 자세한 설로가기</a> 👈
