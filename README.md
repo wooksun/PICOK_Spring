@@ -70,7 +70,7 @@ Spring Framework로 제작한 팀 프로젝트 입니다.<br/>
 - 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/upload.md" target="_blank">글 작성의 설명 및 구동 바로가기</a> 👈
 
 ### ✨ 카테고리(테마)별 분류 및 페이지네이션 ✨
-Piock이 제공하는 세 가지 카테고리별 화면입니다.
+Piock이 제공하는 세 가지 카테고리('Nature'/'City'/'Daily')별 화면입니다.
 <div>
   <img src="readme/NOTICE_BOARD/notice.png" />
 </div>
