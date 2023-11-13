@@ -82,7 +82,8 @@ Piock이 제공하는 세 가지 카테고리별 화면입니다.
 - 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/upload.md" target="_blank">카테고리(테마)별 분류 및 페이지네이션 설명 및 구동 바로가기</a> 👈
 
 ### 📋 게시글 📋
-사용자가 본인의 게시글이 아닌 다른 작성자의 게시글을 들어갔을 때 보이는 View Page 입니다. (작성자 본인의 View Page는 위의 '글 작성'에서 확인 가능합니다.)
+사용자가 본인의 게시글이 아닌 다른 작성자의 게시글을 들어갔을 때 보이는 View Page 입니다. <br/>
+(작성자 본인의 View Page는 위의 '글 작성'에서 확인 가능합니다.)
 <div>
   <img src="readme/BOARD/board.png" />
 </div>
