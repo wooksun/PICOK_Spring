@@ -18,8 +18,6 @@
 
 ### 🆙 카테고리 별 업로드 시연 🆙
 
-- City 카테고리의 업로드 영상입니다.
-- 게시글의 작성자는 수정/삭제 버튼이 활성화 됩니다.
 <div>
   <img src="./UPLOAD/city_upload.gif" />
 </div>
@@ -27,15 +25,19 @@
   <img src="./UPLOAD/upload_1.png" />
 </div>
 
+- City 카테고리의 업로드 영상입니다.
+- 게시글의 작성자는 수정/삭제 버튼이 활성화 됩니다.
+
 <br/>
 
-- Daily 카테고리의 업로드 영상입니다.
-- 게시글의 작성자는 수정/삭제 버튼이 활성화 됩니다.
 <div>
   <img src="./UPLOAD/daily_upload.gif" />
 </div>
 <div>
   <img src="./UPLOAD/upload_2.png" />
 </div>
+
+- Daily 카테고리의 업로드 영상입니다.
+- 게시글의 작성자는 수정/삭제 버튼이 활성화 됩니다.
 
 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring" target="_blank">Project_PICOK 보러가기</a> 👈
