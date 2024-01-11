@@ -79,7 +79,7 @@ Piock이 제공하는 세 가지 카테고리('Nature'/'City'/'Daily')별 화면
 - 각 카테고리(테마)별 게시글을 분류하여 저장한 게시판 입니다.
 - 카테고리의 정렬 순서는 'Latest(최신순)'이 기본이고, 'Popular(좋아요)'는 좋아요가 많은 순서로 정렬하여 좋아요가 많은 게시글의 순서대로 보여집니다.
 - '처음'/'이전'/'1 ~ 10'/'다음'/'마지막' 버튼의 페이지네이션을 통해 사용자가 원하는 페이지로 이동할 수 있습니다.
-- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/upload.md" target="_blank">카테고리(테마)별 분류 및 페이지네이션 설명 및 구동 바로가기</a> 👈
+- 👉 <a href="https://github.com/wooksun/Project_PICOK_Spring/blob/master/readme/notice_board.md" target="_blank">카테고리(테마)별 분류 및 페이지네이션 설명 및 구동 바로가기</a> 👈
 
 ### 📋 게시글 📋
 사용자가 본인의 게시글이 아닌 다른 작성자의 게시글을 들어갔을 때 보이는 View Page 입니다. <br/>
